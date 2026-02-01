@@ -68,7 +68,7 @@ New tools can be added without modifying core logic, ensuring **scalability and 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/phomber.git
+git clone https://github.com/invisiblehqck/phomber.git
 
 # Navigate to project directory
 cd phomber
